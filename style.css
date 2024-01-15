@@ -1,0 +1,55 @@
+label {
+  display: block;
+  margin-bottom: 8px;
+  color: #ffffff; /* Testo bianco per i tag label */
+}
+
+body {
+  background-image: url("https://c8.alamy.com/compit/2m8e339/sfondo-di-disegno-artistico-per-il-disegno-tessile-2m8e339.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: #f8f9fa; /* Colore di fallback */
+}
+
+/* Stile per gli elementi h */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #e8e813ec;
+}
+
+.container {
+  background-color: #242323c8;
+  color: #d61e1e; /* Testo bianco per il contenuto della container */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.colonne-sfondo1,
+.colonne-sfondo2 {
+  background-color: #494b4b;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+ul,
+ol {
+  color: #000000; /* Testo nero per liste ordinate e non ordinate */
+}
+
+/* Stile per il testo all'interno dei campi di input */
+input,
+textarea {
+  color: #000000; /* Testo nero per campi di input e textarea */
+}
+
+/* Stile per il testo delle cards */
+.card {
+  color: #000000; /* Testo nero per le cards */
+}
